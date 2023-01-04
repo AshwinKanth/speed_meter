@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/speed_meter/static/css/main.4b9b35b1.css",
+    "main.js": "/speed_meter/static/js/main.f3f41c5b.js",
+    "static/js/787.11f37a1b.chunk.js": "/speed_meter/static/js/787.11f37a1b.chunk.js",
+    "index.html": "/speed_meter/index.html",
+    "main.4b9b35b1.css.map": "/speed_meter/static/css/main.4b9b35b1.css.map",
+    "main.f3f41c5b.js.map": "/speed_meter/static/js/main.f3f41c5b.js.map",
+    "787.11f37a1b.chunk.js.map": "/speed_meter/static/js/787.11f37a1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b9b35b1.css",
+    "static/js/main.f3f41c5b.js"
+  ]
+}
